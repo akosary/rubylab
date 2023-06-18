@@ -1,4 +1,4 @@
-class Person
+classclass Person
     attr_accessor :name
     @name
     def initialize(name)
@@ -13,6 +13,7 @@ class Person
         end
     end
 end
-# s=Person.new("ahmedreda")
-# puts s.name
-# puts s.valid_name(s.name)
+end
+
+
+
